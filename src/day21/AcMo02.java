@@ -1,6 +1,6 @@
 package day21;
 
-import day20.AcMo03;
+import day20passbyvaluepassbyreferencedate.AcMo03;
 
 public class AcMo02 {
 
