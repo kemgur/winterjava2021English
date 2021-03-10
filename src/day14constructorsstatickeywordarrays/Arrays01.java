@@ -57,7 +57,7 @@ public class Arrays01 {
 		}
 		System.out.println(Arrays.toString(array1));//[-2, 11, 272, 33, 22]
 		System.out.println();
-		
+		//System.out.println(Arrays.rem);
 		//How to find the sum of all "array1" element
 		
 		int m =0;
