@@ -1,5 +1,7 @@
 package day30interfaces;
 
-public interface Tiger {
+public class Tiger implements Animal, Mammal, Carnivorous {
+	
+	
 
 }
