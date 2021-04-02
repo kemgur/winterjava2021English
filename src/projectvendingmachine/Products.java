@@ -1,5 +1,4 @@
 package projectvendingmachine;
-
 public class Products {
     private double snicker=2.5;
     private double chipsAhoy=2.2;
